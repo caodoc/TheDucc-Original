@@ -73,7 +73,7 @@ def Update(fish, FX, FY):
 
 def EndGame(point):
     WINDOWDISPLAY.fill(BACKGROUND)
-    Ending = "Congratulation! " + str(point) + " fishes have been collected!"
+    Ending = "Congratulation! " + str(point) + " fish have been collected!"
     ENDING = THE_END.render(Ending, False, TEXT)
     WINDOWDISPLAY.blit(ENDING, (0, 0))
     pygame.display.update()

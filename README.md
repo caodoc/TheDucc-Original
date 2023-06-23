@@ -14,3 +14,5 @@ Python
 ## Run the game
 You can simply run the game.exe file after installed all requirements.
 
+![](https://img.shields.io/github/repo-size/caodoc/TheDucc-Original?style="flat-square"&color="94a4ff")
+![](https://img.shields.io/github/last-commit/caodoc/TheDucc-Original?style="flat-square"&color="94a4ff")

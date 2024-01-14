@@ -1,7 +1,5 @@
 # The Ducc
 
-<hr>
-
 ## Introduction
 A game about a duck trying to eat as much fish as it can in 15 seconds.
 
